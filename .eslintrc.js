@@ -94,6 +94,7 @@ module.exports = {
           'csot',
           'mcsr',
           'unprocessable',
+          'kafka',
         ],
         skipIfMatch: ['http://[^s]*'],
         minLength: 3,
